@@ -1,0 +1,5 @@
+Memórias: são componentes eletrônicos e, portanto, é parte do hardware de um dispositivo, que tem como função armazenar dados diversos, em caráter temporário ou permanente.
+Processo de Negócio: É o conjunto de atividades ou tarefas que são estruturadas e giram em torno da produção de um resultado de valor para o cliente, por meio da entrega de um serviço ou produto. Ele mostra O QUE deve ser realizado, COMO deve ser realizado e QUEM é o responsável.
+Neutralidade da rede: Diz que todos os dados que trafegam na rede devem ser tratados da mesma forma e com a mesma velocidade. Este conceito também é conhecido como não discriminação de pacotes, onde todos os pacotes devem passar pela rede sem sofrer atrasos ou bloqueios seletivos.
+Banco de dados: É uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador. Um banco de dados é geralmente controlado por um sistema de gerenciamento de banco de dados (DBMS).
+Informação: É a reunião ou o conjunto de dados e conhecimentos organizados, que possam constituir referências sobre um determinado acontecimento, fato ou fenômeno.
