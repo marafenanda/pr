@@ -21,3 +21,7 @@ Formatos abertos:
 Vantagens: São mais acessíveis e interoperáveis, facilitando compartilhamento e reutilização de dados. Têm ampla compatibilidade com diversas ferramentas e plataformas.
 Desvantagens: Podem não oferecer todos os recursos avançados de formatos proprietários, e a representação dos dados pode ser mais simples.
 Ao lidar com dados públicos, a escolha do formato deve considerar acessibilidade, interoperabilidade e capacidade de preservar a integridade e significado dos dados ao longo do tempo. O uso de formatos abertos é frequentemente preferido para promover transparência, colaboração e reutilização de informações públicas.
+
+Referências:
+http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm
+https://www.w3.org/TR/tabular-data-primer/#intro-csv
